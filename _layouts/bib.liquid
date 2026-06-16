@@ -223,6 +223,7 @@
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
       {% endif %}
+      <a class="cite btn btn-sm z-depth-0" role="button">Cite</a>
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
@@ -372,9 +373,41 @@
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
-        <p>{{ entry.abstract }}</p>
+        <p>
+          {% if page.permalink == '/publications/' and entry.full_abstract %}
+            {{ entry.full_abstract }}
+          {% else %}
+            {{ entry.abstract }}
+          {% endif %}
+        </p>
       </div>
     {% endif %}
+
+    <!-- Hidden citation block -->
+    <div class="cite hidden">
+      <p>
+        <span class="cite-label">APA:</span>
+        {% for author in entry.author_array %}
+          {{ author.last | regex_replace: '[*∗†‡§¶‖&^]', '' }},
+          {%- assign first_names = author.first | split: ' ' -%}
+          {% for first_name in first_names -%}
+            {{ first_name | slice: 0, 1 }}.
+          {%- endfor -%}
+          {%- unless forloop.last -%}
+            {%- if forloop.rindex == 2 %}, & {% else %}, {% endif -%}
+          {%- endunless -%}
+        {% endfor %}
+        ({{ entry.year }}). {{ entry.title }}.
+        {% if entry.type == 'article' -%}
+          <em>{{ entry.journal }}</em>{% if entry.volume %}, <em>{{ entry.volume }}</em>{% endif %}{% if entry.number %}({{ entry.number }}){% endif %}{% if entry.pages %}, {{ entry.pages | replace: '--', '-' }}{% endif %}.
+        {%- elsif proceedings contains entry.type -%}
+          <em>{{ entry.booktitle }}</em>{% if entry.pages %}, {{ entry.pages | replace: '--', '-' }}{% endif %}.
+        {%- else -%}
+          {{ periodical | strip_html | strip }}.
+        {%- endif %}
+        {% if entry.doi %}https://doi.org/{{ entry.doi }}{% endif %}
+      </p>
+    </div>
 
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->

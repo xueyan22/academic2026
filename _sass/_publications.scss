@@ -165,12 +165,24 @@
         transition: all 0.15s ease;
       }
 
-      div.abstract.hidden {
-        border: dashed 1px var(--global-bg-color);
+      div.abstract.hidden,
+      div.cite.hidden {
+        border: 1px solid transparent;
+        border-radius: 4px;
+        background-color: transparent;
       }
 
-      div.abstract.hidden.open {
-        border-color: var(--global-text-color);
+      div.abstract.hidden.open,
+      div.cite.hidden.open {
+        border-color: var(--global-divider-color);
+        background-color: rgba(0, 0, 0, 0.025);
+        margin-top: 0.75rem;
+      }
+
+      .cite-label {
+        color: var(--global-theme-color);
+        font-weight: 600;
+        margin-right: 0.35rem;
       }
     }
     div.award.hidden {
