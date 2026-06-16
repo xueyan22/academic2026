@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper advised by my supervisor has been accepted for presentation at the **2026 KAS x NCCU Global Advertising Conference** in Taipei.
+My paper advised by my supervisor has been accepted for presentation at the [**2026 KAS x NCCU Global Advertising Conference**](https://ad.nccu.edu.tw/PageDoc/Detail?fid=2503&id=39764) in Taipei on July 7, 2026.
