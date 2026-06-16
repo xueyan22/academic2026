@@ -33,12 +33,8 @@ Previously, I received my M.A. and B.A. in Communication from Wuhan University.
 
 ## Research Focus
 
-My research explores the structural dynamics of **health information and health behavior**, with a particular focus on the role of **non-human agents**. I organize my work around three interconnected keywords: **health, politics, and technology**, and use mixed methods to examine:
+My research explores the **structural dynamics of health information and health behavior** in digital environments. I am especially interested in the roles of **AI systems, platforms, and other non-human agents** in shaping persuasion, resistance, and public understanding.
 
-- **Politicized health issues** and their social consequences
-- **AI/chatbots and health persuasion**
-- **Technology-driven activism and everyday resistance**
-
-My current projects also extend this agenda to **digital media, climate, and public communication**.
+My current work connects **health, politics, and technology**, combining questions about health persuasion, politicized information, and digital public communication. Methodologically, I use a **mixed-methods approach**, including surveys, experiments, computational methods, and qualitative approaches such as interviews.
 
 ---
