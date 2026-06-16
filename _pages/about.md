@@ -45,5 +45,12 @@ I employ a **mixed-methods approach**, integrating quantitative methods (surveys
 
 ---
 
+## Current Projects
+
+- **AI/chatbots and health persuasion**
+- **Politicized health information and everyday resistance**
+- **Digital media, climate, and public communication**
+
+---
 
 
