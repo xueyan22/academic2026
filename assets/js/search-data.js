@@ -393,7 +393,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-present-two-papers-at-the-ica-2026-conference-in-cape-town-south-africa-communication-technology-division-amp-amp-political-communication-division",
           title: 'I will present two papers at the ICA 2026 conference in Cape Town,...',
           description: "",
-          section: "News",},{id: "news-my-paper-advised-by-my-supervisor-has-been-accepted-for-presentation-at-the-2026-kas-x-nccu-global-advertising-conference-in-taipei",
+          section: "News",},{id: "news-my-paper-advised-by-my-supervisor-has-been-accepted-for-presentation-at-the-2026-kas-x-nccu-global-advertising-conference-in-taipei-on-july-7-2026",
           title: 'My paper advised by my supervisor has been accepted for presentation at the...',
           description: "",
           section: "News",},{id: "news-one-paper-about-environmental-journalism-has-been-accepted-by-the-ecc-2026-conference-on-the-premises-of-masaryk-university-brno-czech-republic",
