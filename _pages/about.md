@@ -42,3 +42,10 @@ My research explores the **structural dynamics** of health information and healt
 My current projects also extend this agenda to digital media, climate, and public communication.
 
 ---
+
+## Public Scholarship
+
+- **WeChat Public Account:** [一只传播学咸鱼](https://mp.weixin.qq.com/s?src=11&timestamp=1783655747&ver=6833&signature=4-8-USk1XumTZ*2o*QfdeoYaAwjW5HK2RD2qPJLvvW9u6qX6Qccn*7i8u8w67TfnOeVrEwrL4u7F2n*QJ-4umMqmqlGuNtvxZSn-Zk*P*3LxwvRiAreRoyEv85n2uh78&new=1), 12,000+ followers; curating and sharing emerging research topics in communication.
+- **Podcast:** [Chinese-language podcast](https://podcaster.xiaoyuzhoufm.com/podcast/6765176a15a5fd520e2d29a7) on communication, technology, and digital life, with five episodes published.
+
+---
