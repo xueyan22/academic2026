@@ -67,8 +67,30 @@ cv:
       - title: Undergraduate National Academic Scholarship
         date: 2017
         awarder: Ministry of Education of China
+    Academic Service:
+      - organization: American Journal of Medicine and Health Studies
+        position: Assistant Editor
+        start_date: 2026
+        end_date: Present
+        url: https://www.ojed.org/med
+      - organization: Journal of Contemporary Eastern Asia
+        position: Assistant Managing Editor
+        start_date: 2025
+        end_date: Present
+        highlights:
+          - Coordinate manuscript publication with managing editors and support special issues
+          - Proofread manuscripts and conduct style checks for final publication
+      - organization: Journal of Communication and Society
+        position: Editorial Assistant
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - Proofread manuscripts and conduct style checks for final publication
+          - Prepare annual journal data for review and promotion
     Reviewer:
       - bullet: Health Communication
+      - bullet: Health Expectations
+      - bullet: Humanities and Social Sciences Communications
       - bullet: New Media & Society
       - bullet: Asia Pacific Viewpoint
       - bullet: Journal of Current Chinese Affairs
