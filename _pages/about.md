@@ -49,6 +49,9 @@ My current projects also extend this agenda to digital media, climate, and publi
     <summary><strong>WeChat Public Account:</strong> 一只传播学咸鱼 (<em>A Fish in Communication</em>), 12,000+ followers; curating and sharing emerging research topics in communication.</summary>
     <img src="/assets/img/wechat_public_account_qr.jpg" alt="WeChat QR code for 一只传播学咸鱼">
   </details>
-- **Podcast:** [博士生们的日记: PhD Cafe](https://www.xiaoyuzhoufm.com/podcast/6765176a15a5fd520e2d29a7) on communication, technology, and digital life, with five episodes published.
+- <details class="podcast-qr">
+    <summary><strong>Podcast:</strong> <a href="https://www.xiaoyuzhoufm.com/podcast/6765176a15a5fd520e2d29a7">博士生们的日记: Cafe for COM Ph.D.</a> on communication, technology, and digital life, with five episodes published.</summary>
+    <img src="/assets/img/podcast_qr.png" alt="Podcast QR code for 博士生们的日记">
+  </details>
 
 ---
