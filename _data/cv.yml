@@ -19,7 +19,6 @@ cv:
         end_date: 2023
         location: Wuhan, China
         highlights:
-          - "GPA: 3.57"
           - "Honors: Excellent Graduate Student Award"
       - institution: Wuhan University
         degree: B.A. in Communication
@@ -27,7 +26,6 @@ cv:
         end_date: 2020
         location: Wuhan, China
         highlights:
-          - "GPA: 3.74"
           - "Honors: Excellent Graduate Student Award"
     Publications:
       - title: How Does Disgust Affect Mpox Prevention?
@@ -47,13 +45,14 @@ cv:
         publisher: International Journal of Arts Management
         summary: Cao, X., & Li, K.
     Invited Talks:
+      - bullet: Game as Persuasive Machine, Shenzhen University, April 2026
       - bullet: How Stigma Influences Health Prevention?, Shandong University, November 2025
     Teaching:
       - organization: The Chinese University of Hong Kong
         position: Teaching Assistant
         start_date: 2024
         end_date: 2026
-        summary: COMM2530 Critical Studies in Media and Communication（共两次）
+        summary: COMM2530 Critical Studies in Media and Communication
     Awards:
       - title: Outstanding Teaching Assistant
         date: 2024-2025
@@ -88,12 +87,7 @@ cv:
           - Proofread manuscripts and conduct style checks for final publication
           - Prepare annual journal data for review and promotion
     Reviewer:
-      - bullet: Health Communication
-      - bullet: Health Expectations
-      - bullet: Humanities and Social Sciences Communications
-      - bullet: New Media & Society
-      - bullet: Asia Pacific Viewpoint
-      - bullet: Journal of Current Chinese Affairs
+      - bullet: Health Communication, Health Expectations, Humanities and Social Sciences Communications, New Media & Society, Asia Pacific Viewpoint, Journal of Current Chinese Affairs
     Skills:
       - name: Languages
         keywords:
